@@ -1,0 +1,28 @@
+<html lang="en" class="html">
+<head>
+    <title>Document</title>
+<style>
+   .clearfix::after{
+     content: "";
+     clear: both;
+     display: table;
+   }
+   .clearfix{
+    border: 3px solid black;
+   }
+   .pargraph{
+    
+   }
+</style>
+</head>
+<body>
+  <div class="clearfix">
+    <div class="pargraph">
+        <p>kdfcjmdposfcjsdoxfokdjxgjoidkxzoifiikdijfjmnlkxkfkciojdkjfkcoiedkfcoidjfmcoiiweoifkdujfcnodifkcnweofkcmigjfnwe0ojfciofjcmdnfcopewkfokkweds</p>
+    </div>
+    <div class="imgcontainer">
+        <img src="photo_2024-11-15_14-25-34.jpg">
+    </div>
+  </div>
+</body>
+</html>
